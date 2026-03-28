@@ -1,0 +1,11 @@
+﻿product_name,category,revenue,profit,margin_pct,units_sold
+Support,Services,47706729.6,28624037.74,60.0,2820.0
+Consulting,Services,45291797.1,22192980.1,49.0,2395.0
+Training,Services,35706702.6,12497345.82,35.0,2172.0
+Implementation,Services,14659433.88,8649066.05,59.0,2652.0
+Printer,Hardware,11388989.43,6947283.52,61.0,2609.0
+Cloud Storage,Software,8803538.04,4753910.43,54.0,2706.0
+Network Switch,Hardware,7735617.12,4950794.75,64.0,2541.0
+Monitor,Hardware,6956243.28,3825933.84,55.0,2324.0
+ERP License,Software,5968409.33,3879466.11,65.0,2731.0
+Laptop,Hardware,5612026.2,3816177.87,68.0,2508.0
